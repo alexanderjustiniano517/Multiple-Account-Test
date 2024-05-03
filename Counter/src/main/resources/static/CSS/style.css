@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+
+.container{
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 200px;
+	text-align: center;
+}
+
+.container-left-aligned{
+	padding: 50px 0px 0px 25px;
+}
+
+h3, a{
+	font-family: cursive;
+	font-size: 1.75rem;
+}
+
+.plusTwo{
+	color: green;
+}
+
+.reset{
+	color: red;
+}
